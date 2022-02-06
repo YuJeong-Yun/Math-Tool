@@ -7,7 +7,7 @@ def substract(a, b) :
 	return a - b
 
 def multiply(a, b) :
-	retun a * b
+	return a * b
 
-def devide(a, b) :
+def divide_premium(a, b) :
 	return a / b
